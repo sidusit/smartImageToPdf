@@ -19,3 +19,6 @@ https://pypi.org/project/Pillow/
 Specify invert flag = 'Yes' only when you want to invert colors of the input images i.e white to black and V.V <br>
 <b> imageFolderName </b> = 'Subject/' # Specify the input folder directory eg 'D:/folder1/folder3/' <br>
 <b> output </b> = 'PGM.pdf' #Specify the output location and filename eg. 'D:/folder1/folder2/filename.pdf' <br>
+
+# How to run
+Run the smartImageToPdf_v2.py file
