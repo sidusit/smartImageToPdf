@@ -1,7 +1,7 @@
 # smartImageToPdf
 ## Converts a nested folder of images into pdf
-Useful when you have collected certain images or notes and want to convert that content into a single pdf.
-### See the example subject folder it requires. one can create as manu subfolder as needed
+Useful when you have collected certain images or notes and want to convert that content into a single pdf. <br>
+See the example subject folder it requires. One can create as many subfolder/subchapters as needed.
 
 ## Libraries required
 from fpdf import FPDF <br>
