@@ -18,11 +18,11 @@ from PIL import Image
 import PIL.ImageOps
 import time
 
-# Configure here
+# Edit configuration here
 # Specify invert flag only when you want to invert colors of the input images
 invertFlag = 'No' # Specify Yes/No here in single brackets
-imageFolderName = 'D:/StudyMaterial/Courses/Subject/'
-output = 'D:/StudyMaterial/Courses/PGM_temp.pdf'
+imageFolderName = 'Subject/' # Specify the input folder directory eg 'D:/folder1/folder3/'
+output = 'PGM.pdf' #Specify the output location and filename eg. 'D:/folder1/folder2/filename.pdf'
 
 def processImage(imagePath, invertFlag, pdfObj):
     if invertFlag == 'Yes':
