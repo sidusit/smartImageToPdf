@@ -11,7 +11,7 @@ import PIL.ImageOps <br>
 import time <br>
 
 ## Libraries references
-https://pypi.org/project/fpdf/
+https://pypi.org/project/fpdf/   <br>
 https://pypi.org/project/Pillow/
 
 ## Parameters/Variables required to be specified before running the code <br>
